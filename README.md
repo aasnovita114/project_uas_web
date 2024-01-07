@@ -7,6 +7,13 @@
 #### Kelas: Ti.22.A1 
 #### Mata Kuliah: Pemograman web
 #### Project: Membuat Sistem  Checklist Kebersihan Toilet
+- [Link Dokumentasi YouTube](https://youtu.be/VM8EkiNfaXc?si=oPOoi1j-HD4lmWB5)
+
+
+- [Link Pdf Proses Pembuatan](https://drive.google.com/drive/folders/1CvkY79fjMUiKQwyi-vKk3F3QyH8Em8RT)
+
+
+- [Link Demo on Web Hosting]
 
 
 ## Tampilan Pada Halaman Web
