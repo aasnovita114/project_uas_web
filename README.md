@@ -6,7 +6,7 @@
 
 #### Kelas: Ti.22.A1 
 #### Mata Kuliah: Pemograman web
-#### Project: Membuat Sistem Sistem Checklist Kebersihan Toilet
+#### Project: Membuat Sistem  Checklist Kebersihan Toilet
 
 
 ## Tampilan Pada Halaman Web
