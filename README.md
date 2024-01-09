@@ -1,6 +1,6 @@
 # project_uas_web kelompok 8
 #### Anggota Kelompok
-1.  Muhammad David Ali (312210291) 
+1.  Muhammad David Ali (312210291) ID : Luxcario
 2.  Fathia Wardah S.Djawas (312210196)
 3.  Aas Novitasari (312210167)
 
