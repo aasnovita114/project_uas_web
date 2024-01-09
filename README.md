@@ -1,8 +1,8 @@
 # project_uas_web kelompok 8
 #### Anggota Kelompok
 1.  Muhamad David Ali (312210291) GitHub : Luxcario
-2.  Fathia Wardah S.Djawas (312210196)
-3.  Aas Novitasari (312210167)
+2.  Fathia Wardah S.Djawas (312210196) Github : FathiDjawas
+3.  Aas Novitasari (312210167) Github : aasnovita114
 
 #### Kelas: Ti.22.A1 
 #### Mata Kuliah: Pemograman web
