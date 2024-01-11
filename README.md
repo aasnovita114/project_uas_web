@@ -13,7 +13,7 @@
 - [Link Pdf Proses Pembuatan](https://drive.google.com/drive/folders/1CvkY79fjMUiKQwyi-vKk3F3QyH8Em8RT)
 
 
-- [Link Demo on Web Hosting](https://checklisttoiletprojectuas.000webhostapp.com/index.php)
+- [Link Demo on Web Hosting](https://checklisttoiletprojectuas.000webhostapp.com/login.php)
 
 
 ## Tampilan Pada Halaman Web
